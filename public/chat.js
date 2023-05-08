@@ -1,6 +1,6 @@
 // conenction
 let socket = io();
-console.log(soket);
+console.log(socket);
 
 // DOM elements
 let message = document.getElementById('message');
